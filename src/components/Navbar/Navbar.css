@@ -1,0 +1,44 @@
+.navbar {
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    margin: 2px;
+    box-shadow: 0px 3px 7px rgba(0, 0, 0, 0.1);
+}
+.airbnbLogo {
+    padding: 8px;
+    max-width: 100px;
+}
+.search-buttons {
+    border: 1px solid black;
+    padding: 8px;
+    display: flex;
+    gap: 3px;
+    border-radius: 20px;
+}
+.search-buttons > button {
+    border: none;
+    background: none;
+}
+.search-buttons:hover {
+    box-shadow: 4px 4px 4px grey;
+}
+.language-icon {
+    width: 32px;
+    height: 32px;
+}
+.profile {
+    display: flex;
+    align-items: center;
+}
+.menu {
+    display: flex;
+    border: 1px solid black;
+}
+.menu img {
+    object-fit: contain; /* or use "cover" or "scale-down" based on your preference */
+    height: auto;
+    width: 32px; 
+}
