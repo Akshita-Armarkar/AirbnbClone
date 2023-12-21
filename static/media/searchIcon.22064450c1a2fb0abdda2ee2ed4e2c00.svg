@@ -1,0 +1,13 @@
+<svg
+  width="20"
+  height="20"
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 24 24"
+  fill="white">
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <rect width="24" height="24" opacity="0" />
+      <path d="M20.84,19l-4.55-4.55a7,7,0,1,0-1.4,1.4L19,20.84a1,1,0,0,0,1.41,0A1,1,0,0,0,20.84,19ZM5,10a5,5,0,1,1,5,5A5,5,0,0,1,5,10Z" />
+    </g>
+  </g>
+</svg>
