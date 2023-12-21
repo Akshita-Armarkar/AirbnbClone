@@ -8,7 +8,9 @@ function App() {
     <div className='container'>
      <Navbar/>
      <Section/>
+     <div className='cards'>
      <Card/>
+     </div>
     </div>
   );
 }
