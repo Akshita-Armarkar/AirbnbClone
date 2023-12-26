@@ -21,3 +21,17 @@ span {
     font-size: 0.75rem;
     font-weight: normal;
 }
+.soldout {
+    color: #222;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 110%;
+    border-radius: 10px;
+    background: #FFF;
+    position: absolute;
+    margin: 4px;
+    padding: 4px;
+}
