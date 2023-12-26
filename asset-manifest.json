@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.cd1cd994.css",
-    "main.js": "/static/js/main.c772a41b.js",
-    "static/js/787.88dfdeb5.chunk.js": "/static/js/787.88dfdeb5.chunk.js",
-    "static/media/photoGrid.svg": "/static/media/photoGrid.9028674b39be5def7eeee56a934daaed.svg",
-    "static/media/searchIcon.png": "/static/media/searchIcon.8bf0630d0df8de29c2e5.png",
-    "static/media/languageIcon.png": "/static/media/languageIcon.9fe76e09944fab237421.png",
-    "static/media/airbnb.svg": "/static/media/airbnb.b810d9f9847b26ed8d94582ccb30909f.svg",
-    "index.html": "/index.html",
-    "static/media/star1.svg": "/static/media/star1.3cbc4b7161424f085abe71206416b670.svg",
-    "static/media/hamburger.svg": "/static/media/hamburger.b778cb1777612594612f0bf2e4ff8477.svg",
-    "static/media/profileIcon.svg": "/static/media/profileIcon.dd49e005e731e543bbb7b16266bdc186.svg",
-    "static/media/searchIcon.svg": "/static/media/searchIcon.22064450c1a2fb0abdda2ee2ed4e2c00.svg",
-    "main.cd1cd994.css.map": "/static/css/main.cd1cd994.css.map",
-    "main.c772a41b.js.map": "/static/js/main.c772a41b.js.map",
-    "787.88dfdeb5.chunk.js.map": "/static/js/787.88dfdeb5.chunk.js.map"
+    "main.css": "/AirbnbClone/static/css/main.09dade1c.css",
+    "main.js": "/AirbnbClone/static/js/main.830251ad.js",
+    "static/js/787.88dfdeb5.chunk.js": "/AirbnbClone/static/js/787.88dfdeb5.chunk.js",
+    "static/media/photoGrid.svg": "/AirbnbClone/static/media/photoGrid.9028674b39be5def7eeee56a934daaed.svg",
+    "static/media/searchIcon.png": "/AirbnbClone/static/media/searchIcon.8bf0630d0df8de29c2e5.png",
+    "static/media/languageIcon.png": "/AirbnbClone/static/media/languageIcon.9fe76e09944fab237421.png",
+    "static/media/airbnb.svg": "/AirbnbClone/static/media/airbnb.b810d9f9847b26ed8d94582ccb30909f.svg",
+    "index.html": "/AirbnbClone/index.html",
+    "static/media/star1.svg": "/AirbnbClone/static/media/star1.3cbc4b7161424f085abe71206416b670.svg",
+    "static/media/hamburger.svg": "/AirbnbClone/static/media/hamburger.b778cb1777612594612f0bf2e4ff8477.svg",
+    "static/media/profileIcon.svg": "/AirbnbClone/static/media/profileIcon.dd49e005e731e543bbb7b16266bdc186.svg",
+    "static/media/searchIcon.svg": "/AirbnbClone/static/media/searchIcon.22064450c1a2fb0abdda2ee2ed4e2c00.svg",
+    "main.09dade1c.css.map": "/AirbnbClone/static/css/main.09dade1c.css.map",
+    "main.830251ad.js.map": "/AirbnbClone/static/js/main.830251ad.js.map",
+    "787.88dfdeb5.chunk.js.map": "/AirbnbClone/static/js/787.88dfdeb5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd1cd994.css",
-    "static/js/main.c772a41b.js"
+    "static/css/main.09dade1c.css",
+    "static/js/main.830251ad.js"
   ]
 }
