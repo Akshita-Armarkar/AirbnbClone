@@ -12,7 +12,7 @@ export default function Navbar() {
             <div className="airbnbLogo">
             <img src={airbnbLogo} alt='logo'/>
             </div>
-            <div className="search-buttons">
+            {/* <div className="search-buttons">
                 <button>Anywhere</button>
                 <button>Anyweek</button>
                 <button>Add Guests</button>
@@ -24,7 +24,7 @@ export default function Navbar() {
                     <img src={hamburger} alt="menu"/>
                     <img src={profileIcon} alt="Profile Icon"/>
                 </div>
-            </div>
+            </div> */}
         </nav>
     );
 }
